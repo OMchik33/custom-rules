@@ -1,5 +1,6 @@
 payload:
   # ✅ Steam (Valve)
+  - '+.lencr.org'
   - '+.steampowered.com'
   - '+.store.steampowered.com'
   - '+.help.steampowered.com'

@@ -17,12 +17,16 @@ payload:
   - '+.steamserver.net'
   - '+.csgo.com'
 
+  # Hz games
+  - '+.playfabapi.com'
+
   # ✅ Epic Games
   - '+.epicgames.com'
   - '+.api.epicgames.com'
   - '+.cdn1.epicgames.com'
   - '+.cdn2.epicgames.com'
   - '+.epicgames-download1.akamaized.net'
+  - '+.epicgames.dev'
 
   # ✅ Battle.net / Blizzard
   - '+.battle.net'

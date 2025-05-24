@@ -16,6 +16,20 @@ payload:
   - '+.cm.steampowered.com'
   - '+.steamserver.net'
   - '+.csgo.com'
+  # ⭐ Дополнительные Steam-домены
+  - '+.steam.apac.qtlglb.com'
+  - '+.steamusercontent.com'
+  - '+.steamstat.us'
+  - '+.steam.tv'
+  - '+.steamchina.com'
+  - '+.steamdeck.com'
+  - '+.valvesoftware.com'
+  - '+.dota2.com'
+  - '+.underlords.com'
+  - '+.s3.dualstack.eu-central-1.amazonaws.com'
+  - '+.s3.dualstack.us-east-1.amazonaws.com'
+  - 'steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com'
+  - '+.cloudfront.net'
 
   # Hz games
   - '+.playfabapi.com'

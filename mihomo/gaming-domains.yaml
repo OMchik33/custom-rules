@@ -1,0 +1,52 @@
+payload:
+  # Steam
+  - '+.steampowered.com'
+  - '+.steamcommunity.com'
+  - '+.steamcontent.com'
+  - '+.steamcdn-a.akamaihd.net'
+  - '+.steamgames.com'
+  - '+.steam-chat.com'
+  - '+.steamstatic.com'
+  - '+.csgo.com'
+
+  # Epic Games
+  - '+.epicgames.com'
+  - '+.api.epicgames.com'
+  - '+.cdn1.epicgames.com'
+  - '+.cdn2.epicgames.com'
+  - '+.epicgames-download1.akamaized.net'
+
+  # Battle.net (Blizzard)
+  - '+.blizzard.com'
+  - '+.battle.net'
+  - '+.blz-contentstack.com'
+  - '+.blzstatic.cn'
+  - '+.bnet.163.com'
+
+  # Riot Games (League of Legends, VALORANT)
+  - '+.riotgames.com'
+  - '+.pbe1.lol.riotgames.com'
+  - '+.playvalorant.com'
+
+  # Ubisoft
+  - '+.ubi.com'
+  - '+.ubisoft.com'
+  - '+.ubisoftconnect.com'
+
+  # Rockstar Games
+  - '+.rockstargames.com'
+  - '+.rsg.sc'
+
+  # Origin / EA
+  - '+.ea.com'
+  - '+.origin.com'
+
+  # GOG
+  - '+.gog.com'
+
+  # Bethesda
+  - '+.bethesda.net'
+
+  # Wargaming (WoT, WoWs)
+  - '+.wargaming.net'
+  - '+.wgcdn.co'

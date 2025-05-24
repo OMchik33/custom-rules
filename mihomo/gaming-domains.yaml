@@ -1,52 +1,60 @@
 payload:
-  # Steam
+  # ✅ Steam (Valve)
   - '+.steampowered.com'
+  - '+.store.steampowered.com'
+  - '+.help.steampowered.com'
   - '+.steamcommunity.com'
-  - '+.steamcontent.com'
-  - '+.steamcdn-a.akamaihd.net'
   - '+.steamgames.com'
   - '+.steam-chat.com'
   - '+.steamstatic.com'
+  - '+.steamcontent.com'
+  - '+.steamcdn-a.akamaihd.net'
+  - '+.steamcommunity-a.akamaihd.net'
+  - '+.steambroadcast.akamaized.net'
+  - '+.media.steampowered.com'
+  - '+.cdn.steampowered.com'
+  - '+.cm.steampowered.com'
+  - '+.steamserver.net'
   - '+.csgo.com'
 
-  # Epic Games
+  # ✅ Epic Games
   - '+.epicgames.com'
   - '+.api.epicgames.com'
   - '+.cdn1.epicgames.com'
   - '+.cdn2.epicgames.com'
   - '+.epicgames-download1.akamaized.net'
 
-  # Battle.net (Blizzard)
-  - '+.blizzard.com'
+  # ✅ Battle.net / Blizzard
   - '+.battle.net'
+  - '+.blizzard.com'
   - '+.blz-contentstack.com'
   - '+.blzstatic.cn'
   - '+.bnet.163.com'
 
-  # Riot Games (League of Legends, VALORANT)
+  # ✅ Riot Games (LoL, VALORANT)
   - '+.riotgames.com'
   - '+.pbe1.lol.riotgames.com'
   - '+.playvalorant.com'
 
-  # Ubisoft
-  - '+.ubi.com'
+  # ✅ Ubisoft
   - '+.ubisoft.com'
+  - '+.ubi.com'
   - '+.ubisoftconnect.com'
 
-  # Rockstar Games
+  # ✅ Rockstar Games
   - '+.rockstargames.com'
   - '+.rsg.sc'
 
-  # Origin / EA
+  # ✅ EA / Origin
   - '+.ea.com'
   - '+.origin.com'
 
-  # GOG
+  # ✅ GOG
   - '+.gog.com'
 
-  # Bethesda
+  # ✅ Bethesda
   - '+.bethesda.net'
 
-  # Wargaming (WoT, WoWs)
+  # ✅ Wargaming (WoT, WoWs)
   - '+.wargaming.net'
   - '+.wgcdn.co'

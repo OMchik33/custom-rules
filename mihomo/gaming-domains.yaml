@@ -26,9 +26,10 @@ payload:
   - '+.valvesoftware.com'
   - '+.dota2.com'
   - '+.underlords.com'
-  - '+.s3.dualstack.eu-central-1.amazonaws.com'
-  - '+.s3.dualstack.us-east-1.amazonaws.com'
   - '+.cloudfront.net'
+  - '+.amazonaws.com'
+  - '+.amazontrust.com'
+  - '+.core.windows.net'
 
   # Hz games
   - '+.playfabapi.com'

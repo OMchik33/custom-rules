@@ -28,7 +28,6 @@ payload:
   - '+.underlords.com'
   - '+.s3.dualstack.eu-central-1.amazonaws.com'
   - '+.s3.dualstack.us-east-1.amazonaws.com'
-  - 'steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com'
   - '+.cloudfront.net'
 
   # Hz games

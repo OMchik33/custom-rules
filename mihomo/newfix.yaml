@@ -4,4 +4,4 @@ payload:
 - '+.www.githubstatus.com'
 - '+.remna.st'
 - '+.unisender.com'
-- '*.cdn.jsdelivr.net'
+- '+.jsdelivr.net'

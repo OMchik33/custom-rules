@@ -9,6 +9,7 @@ payload:
 - '+.winscp.net'
 - '+.cdn77.org'
 - '+.base64decode.org'
+# ✅ VS Code / Visual Studio Code
 - '+.vscode.dev'
 - '+.visualstudio.com'
 - '+.core.windows.net'

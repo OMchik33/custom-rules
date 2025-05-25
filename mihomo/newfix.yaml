@@ -1,9 +1,7 @@
 payload:
-- '+.chat.deepseek.com'
 - '+.ungh.cc'
-- '+.www.githubstatus.com'
+- '+.githubstatus.com'
 - '+.remna.st'
-- '+.unisender.com'
 - '+.jsdelivr.net'
 - '+.unsplash.com'
 - '+.winscp.net'

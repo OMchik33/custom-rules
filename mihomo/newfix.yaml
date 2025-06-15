@@ -1,4 +1,25 @@
 payload:
+# ✅ VS Code / Visual Studio Code
+- '+.vscode.dev'
+- '+.visualstudio.com'
+- '+.vsassets.io'
+- '+.vscode-cdn.net'
+- '+.msecnd.net'
+- '+.trafficmanager.net'
+- '+.microsoftonline.com'
+- '+.live.com'
+- '+.github.com'
+- '+.githubusercontent.com'
+
+# ✅ Windows Update
+- '+.windowsupdate.com'
+- '+.microsoft.com'
+- '+.windows.com'
+- '+.windows.net'
+
+# ✅ Прочее
+- '+.boosty.to'
+- '+.google.com'
 - '+.ungh.cc'
 - '+.githubstatus.com'
 - '+.remna.st'
@@ -7,19 +28,3 @@ payload:
 - '+.winscp.net'
 - '+.cdn77.org'
 - '+.base64decode.org'
-# ✅ VS Code / Visual Studio Code
-- '+.vscode.dev'
-- '+.visualstudio.com'
-- '+.core.windows.net'
-- '+.vsassets.io'
-- '+.vscode-cdn.net'
-- '+.msecnd.net'
-- '+.trafficmanager.net'
-- '+.microsoftonline.com'
-- '+.live.com'
-- '+.microsoft.com'
-- '+.github.com'
-- '+.githubusercontent.com'
-# далее
-- '+.boosty.to'
-- '+.google.com'

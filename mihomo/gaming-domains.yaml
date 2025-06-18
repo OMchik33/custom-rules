@@ -17,6 +17,7 @@ payload:
   - '+.cm.steampowered.com'
   - '+.steamserver.net'
   - '+.csgo.com'
+  
   # ⭐ Дополнительные Steam-домены
   - '+.steam.apac.qtlglb.com'
   - '+.steamusercontent.com'
@@ -31,6 +32,30 @@ payload:
   - '+.amazonaws.com'
   - '+.amazontrust.com'
   - '+.core.windows.net'
+  
+  # Новые добавленные Steam/CDN-домены
+  - '+.hwcdn.net'
+  - '+.akamaized.net'
+  - '+.akamaihd.net'
+  - '+.steam-api.com'
+  - '+.playartifact.com'
+  - '+.s.team'
+  - '+.qtlglb.com'
+  - '+.webra.ru'
+  - '+.comcast.net'
+  - '+.orcon.net.nz'
+  - '+.slingshot.co.nz'
+  - '+.wmsj.cn'
+  - '+.wmsjsteam.com'
+  - '+.queniuqe.com'
+  - '+.clngaa.com'
+  - '+.bscstorage.net'
+  - '+.eccdnx.com'
+  - '+.pinyuncloud.com'
+  - '+.8686c.com'
+  - '+.queniujq.cn'
+  - '+.pphimalayanrt.com'
+  - '+.manlaxy.com'
 
   # Hz games
   - '+.playfabapi.com'

@@ -41,6 +41,7 @@ payload:
 - '+.cloud.microsoft'
 - '+.office.net'
 - '+.sentry.io'
+- '+.f-droid.org'
 
 # ✅ MEXC
 - '+.mexc.com'

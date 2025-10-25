@@ -43,6 +43,7 @@ payload:
 - '+.sentry.io'
 - '+.f-droid.org'
 - '+.speedtest.net'
+- '+.itdog.info'
 
 # ✅ MEXC
 - '+.mexc.com'

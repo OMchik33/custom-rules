@@ -102,3 +102,7 @@ payload:
   # ✅ Wargaming (WoT, WoWs)
   - '+.wargaming.net'
   - '+.wgcdn.co'
+
+  # ✅ Roblox
+  - '+.roblox.com'
+  - '+.rbxcdn.com'

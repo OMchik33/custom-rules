@@ -106,3 +106,9 @@ payload:
   # ✅ Roblox
   - '+.roblox.com'
   - '+.rbxcdn.com'
+  - '+.arkoselabs.co'
+  - '+.robloxlabs.com'
+  - '+.d1unuk07s6td74.cloudfront.net'
+  - '+.roblox-load-generator-configuration.s3.us-east-2.amazonaws.com'
+  - '+.roblox-poc.global.ssl.fastly.net'
+  - '+.robloxcorp.s.llnwi.net'

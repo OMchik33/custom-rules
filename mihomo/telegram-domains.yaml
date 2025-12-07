@@ -21,3 +21,8 @@ payload:
   - '+.quiz.directory'
   - '+.telega.one'
   - '+.tg.dev'
+  - '+.legra.ph'      # альтернативный домен Telegraph (есть в крупных ruleset’ах)
+  - '+.mbrx.app'      # экосистема Nicegram / прокси и обёртки
+  - '+.stel.com'      # короткий домен, который Telegram использовал/использует для служебных штук
+  - 'api.imem.app'        # iMe
+  - 'api.swiftgram.app'   # Swiftgram

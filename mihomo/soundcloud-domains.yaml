@@ -1,0 +1,7 @@
+payload:
+  # ✅ SoundCloud — primary domains
+  - '+.soundcloud.com'
+  - '+.sndcdn.com'
+
+  # ✅ SoundCloud — additional domains
+  - '+.soundcloud.cloud'

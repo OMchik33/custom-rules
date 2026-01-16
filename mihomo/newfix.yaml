@@ -54,6 +54,9 @@ payload:
 - '+.netbird.io'
 - "+.netbird.cloud"
 
+# ✅ Для игр
+- '+.forgecdn.net'
+
 
 # ✅ MEXC
 - '+.mexc.com'

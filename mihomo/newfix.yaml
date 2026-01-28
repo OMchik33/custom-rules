@@ -10,6 +10,9 @@ payload:
 - '+.live.com'
 - '+.github.com'
 - '+.githubusercontent.com'
+- '+.onedrive.com'
+- '+.microsoftpersonalcontent.com'
+- '+.pushnp.svc.ms'
 
 # ✅ Windows Update
 - '+.windowsupdate.com'
@@ -54,6 +57,7 @@ payload:
 - '+.netbird.io'
 - '+.netbird.cloud'
 - '+.photopea.com'
+- '+.static.microsoft.com'
 
 # ✅ Для игр
 - '+.forgecdn.net'

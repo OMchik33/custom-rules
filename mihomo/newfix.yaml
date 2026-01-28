@@ -13,6 +13,10 @@ payload:
 - '+.onedrive.com'
 - '+.microsoftpersonalcontent.com'
 - '+.pushnp.svc.ms'
+- '+.msftauth.net'
+- '+.office.com'
+- '+.skype.com'
+- '+.azure.com'
 
 # ✅ Windows Update
 - '+.windowsupdate.com'

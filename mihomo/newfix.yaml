@@ -62,6 +62,7 @@ payload:
 - '+.netbird.cloud'
 - '+.photopea.com'
 - '+.static.microsoft.com'
+- '+.docs.rw'
 
 # ✅ Для игр
 - '+.forgecdn.net'

@@ -63,6 +63,7 @@ payload:
 - '+.photopea.com'
 - '+.static.microsoft.com'
 - '+.docs.rw'
+- '+.googleapis.com'
 - '+huggingface.co'
 - '+.awswaf.com'
 - '+.stripe.com'

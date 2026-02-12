@@ -63,6 +63,11 @@ payload:
 - '+.photopea.com'
 - '+.static.microsoft.com'
 - '+.docs.rw'
+- '+huggingface.co'
+- '+.awswaf.com'
+- '+.stripe.com'
+- '+.stripe.network'
+- '+.sanster-lama-cleaner-lama.hf.space'
 
 # ✅ Для игр
 - '+.forgecdn.net'

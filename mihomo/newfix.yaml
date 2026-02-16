@@ -69,6 +69,7 @@ payload:
 - '+.stripe.com'
 - '+.stripe.network'
 - '+.sanster-lama-cleaner-lama.hf.space'
+- '+.duckdns.org'
 
 # ✅ Для игр
 - '+.forgecdn.net'

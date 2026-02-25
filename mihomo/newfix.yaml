@@ -70,6 +70,7 @@ payload:
 - '+.stripe.network'
 - '+.sanster-lama-cleaner-lama.hf.space'
 - '+.duckdns.org'
+- '+.remna.dev'
 
 # ✅ Для игр
 - '+.forgecdn.net'
